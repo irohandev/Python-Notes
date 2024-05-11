@@ -6,5 +6,6 @@ def sum(first , second):
 
 first = int(input("Enter first number : "))
 second = int(input("Enter second number : "))
+
 result = sum(first , second)
 print("Result of the input is :", result)
